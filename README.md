@@ -3,7 +3,7 @@
 <div>
     📔 - Cursando Análise e Desenvolvimento de Sistemas - Uninter (5/5)
     <br>
-    📝 - Focado em projetos Back-En 
+    📝 - Iniciando a Formação Front-End - Udemy
 </div>
 <br>
 
